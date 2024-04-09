@@ -1,10 +1,18 @@
 <h1 align="center">Hi 👋, I'm Angel</h1>
+
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
 <h3 align="center">A passionate backend developer from México</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=noxslow99&label=Profile%20views&color=0e75b6&style=flat" alt="noxslow99" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=noxslow99&label=Profile%20views&color=0e75b6&style=flat" alt="noxslow99" /> </p>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
+- ⚙️ I'm currently studying **network engineering**
 - 💻 Backend developer
 - 🌱 I’m currently learning **Spring Boot, GraphQL for Spring**
 - 📫 How to reach me **angel_jcc99@outlook.com**
@@ -24,41 +32,73 @@
 
   ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=graphql&labelColor=fffff)
   ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&labelColor=fffff)
+  ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring%20security&logoColor=white)
+  ![JSON Web Tokens](https://img.shields.io/badge/JSON%20Web%20Tokens-000000?style=for-the-badge&logo=json%20web%20tokens)
     
+<br>
+
+- **Databases**:
+
+  ![MySQL](https://img.shields.io/badge/MySQL-353936?style=for-the-badge&logo=mysql)
+
 <br>
 
 - **Softwares and Tools**:
 
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-    ![Intellij IDEA](https://img.shields.io/badge/Intellij%20IDEA-000000?style=for-the-badge&logo=intellij%20idea)
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+  ![Intellij IDEA](https://img.shields.io/badge/Intellij%20IDEA-000000?style=for-the-badge&logo=intellij%20idea)
 
 <br>
 
 - **Extras**:
-  
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
 
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff)
+  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=ffffff)
+  ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
 
 </p>
 
-<p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
-  <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-</p>
+<br>
+<br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/angel-colli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="angel-colli" height="30" width="40" /></a>
-</p>
+-----
 
-### &nbsp;GitHub Analytics
+<br>
 
-<p align="center">
-<p><img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=noxslow99&show_icons=true&theme=radical&locale=en&layout=compact" alt="noxslow99" /></p>
-<p>&nbsp;<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=noxslow99&show_icons=true&theme=radical&locale=en" alt="noxslow99" /></p>
-</p>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Analytics </b>
+
+<div align="center">
+    
+<a href="https://github.com/NoxSlow99/">
+    <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=noxslow99&show_icons=true&theme=radical&locale=en&layout=compact" alt="noxslow99" />
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=noxslow99&show_icons=true&theme=radical&locale=en" alt="noxslow99" />
+
+</a>
+</div>
+
+<br>
+<br>
+<br>
+
+-----
+
+<br>
+<br>
+
+## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+<br>
+<div align='left'>
+
+<ul>
+
+<li>
+    <a href="www.linkedin.com/in/angel-colli" target="_blank">
+        <img src="https://img.shields.io/badge/linkedin:%20%20Angel%20Colli-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+    </a>
+</li>
+	
+</ul>
+</div>
